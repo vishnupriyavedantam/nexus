@@ -56,7 +56,7 @@
    </executions>
    <configuration>
       <serverId>nexus</serverId>
-      <nexusUrl>http://localhost:8081/nexus/</nexusUrl>
+      <nexusUrl>http://localhost:8081/nexus/content/repositories/repo/</nexusUrl>
       <skipStaging>true</skipStaging>
    </configuration>
 </plugin>
